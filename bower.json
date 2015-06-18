@@ -1,0 +1,18 @@
+{
+  "name": "bower.json",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/js/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "sweetalert": "~1.0.1",
+    "normalize-css": "~3.0.3"
+  }
+}
